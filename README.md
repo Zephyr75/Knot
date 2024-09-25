@@ -1,2 +1,5 @@
 # Knot
- Unity game about kids defending their wasteland territory
+
+Unity game about building machines with school furnitures
+
+![Screenshot](antoine-knot.jpg)
